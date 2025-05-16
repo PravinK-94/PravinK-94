@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PravinK-94
 - 👀 I’m interested in Data Science and App Development.
-- 🌱 I’m currently learning Java, C++.
+- 🌱 I’m currently learning Java, C++, C#.
 - 💞️ I’m looking to collaborate on any app development or data analytics.
 - 📫 I can be reached via my email: xpravin657@gmail.com. 
 - 😄 Pronouns: He/Him.
